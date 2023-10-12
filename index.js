@@ -1,5 +1,6 @@
 // ES6로 시작
-const API_KEY = "40ea2ae4f55f7c9076a60a95a4417099";
+// API_KEY 발급받아 사용하면 됨 (아래 임의의 key값 작성해둠)
+const API_KEY = "ej2ejfli2aawpg834";
 
 const container = document.querySelector(".container");
 const search = document.querySelector(".search-box button");
